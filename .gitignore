@@ -2,6 +2,7 @@
 raw_data/
 data/
 credentials.json
+outputs/
 
 # vim
 *.swp
